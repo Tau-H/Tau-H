@@ -1,8 +1,7 @@
-Tau
-こんにちわ、世界！
-私は岩手県山田町で学生をしていて、ChoccolateMilkと一緒に「Dʒoθipopu」というコンランを作っています。
-(彼女はGitHubを使わず、オフラインで貢献しています。)
+Tau  
+こんにちわ、世界！  
+私は岩手県山田町で学生をしていて、ChoccolateMilkと一緒に「Dʒoθipopu」というコンランを作っています。  
 
-ChoccolateMilk
-Hello, World!
+ChoccolateMilk  
+Hello, World!  
 I'm a student from Minnesota, United States of America, and I'm collaborating with Tau to create the conlang Dʒoθipopu.
